@@ -1,0 +1,28 @@
+.imagenFondo{
+	-fx-background-image: url("http://temasespirituales.com/wp-content/uploads/2017/07/Co%CC%81mo-profundizar-tu-relacio%CC%81n-con-la-naturaleza.jpeg");
+	-fx-background-size: 120%;
+	-fx-background-repeat: no-repeat;
+}
+
+.pane{
+	-fx-background-color: #1600a380;
+}
+
+.mainPane{
+	-fx-background-color: white;
+} 
+
+.getStarted{
+	-fx-border-radius: 5;
+	-fx-border-color: navy;
+}
+
+.aboutUs{
+	-fx-background-color: white;
+	-fx-background-radius: 5;
+}
+
+.signIn{
+	-fx-border-color: white;
+	-fx-border-radius: 5;
+}
